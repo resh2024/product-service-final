@@ -8,7 +8,7 @@ Product {
     name: "ASUS Wireless Gaming Router".to_string(),
     price: 299.99,
     description: "Refurbished (Good) ASUS ROG Rapture WiFi 6 Wireless Gaming Router (GT-AX11000)".to_string(),
-    image: "/asusrouter.png".to_string()
+    image: "asusrouter.png".to_string()
         },
 Product {
     id: 2,
